@@ -4,7 +4,7 @@
 - I'm particularly interested in developing small-molecule drugs targeting GPCRs, especially those related to neuronal function, though my interests span cell biology and molecular biology broadly.
 - Currently studying and assisting with experiments at Dr. Kang's [Cell Signaling and Molecular Pharmacology laboratory](https://www.cellsignalingandmolecularpharmacologylab.com/).
 
-## Get In Touch
+## 📧 Get In Touch
 - [X (Twitter)](https://x.com/yujin_serotonin)
 - [LinkedIn](https://www.linkedin.com/in/yujin-c-219969179/)
 
